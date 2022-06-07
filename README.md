@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rAHvwN_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp1b5x0uufzyabikh8fp.png)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rAHvwN_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp1b5x0uufzyabikh8fp.png)
 <h1 align="center">Hi 👋, I'm Abhishek Sukumar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
