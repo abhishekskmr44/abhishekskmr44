@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 👨‍💻 All of my projects are available at [https://fantastic-daffodil-f4974b.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://courageous-pastelito-db01cd.netlify.app/)
 
 - 💬 Ask me about **react js**
 
