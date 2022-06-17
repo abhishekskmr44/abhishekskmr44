@@ -38,7 +38,7 @@
 
 <h1>⚡Mytheresa.com clone</h1>
 <p>MyTheresa.com is a complete fashion, wardrobe and attire speacialist website. It has a signup page, a login page and a completely functional payment page. Technology used is HTML, CSS & Javascript. Data fetching is also used.</p>
-<h2>https://glittering-cocada-d76c60.netlify.app/</h2>
+<h2>deployed link- https://glittering-cocada-d76c60.netlify.app/</h2>
 
 https://glittering-cocada-d76c60.netlify.app/
 <h3 align="left">Languages and Tools:</h3>
