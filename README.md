@@ -27,7 +27,7 @@
 <a href="https://twitter.com/abhishekskmr44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekskmr44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekskmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekskmr" height="30" width="40" /></a>
 </p>
-⚡Bluemercury.com clone
+⚡<h1>Bluemercury.com clone</h1>
 ​Live Link- https://dazzling-pasca-d1910a.netlify.app/
 Cosmetics ecommerce platform
 
