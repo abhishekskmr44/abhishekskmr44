@@ -27,7 +27,12 @@
 <a href="https://twitter.com/abhishekskmr44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekskmr44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekskmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekskmr" height="30" width="40" /></a>
 </p>
+⚡Bluemercury.com clone
+​Live Link- https://dazzling-pasca-d1910a.netlify.app/
+Cosmetics ecommerce platform
 
+
+deployed link- https://bucolic-muffin-8abf9f.netlify.app/
 <h1>⚡Orbitz.com clone</h1> 
 <p>Orbitz.com is a an amazing travel website. Also list of hotels, cities and destinations It has a signup page, a login page and a completely functional payment page. Technology used is React JS.<p>
 <h2>deployed link- https://bucolic-muffin-8abf9f.netlify.app/</h2>
