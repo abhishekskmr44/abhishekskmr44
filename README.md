@@ -28,8 +28,8 @@
 <a href="https://linkedin.com/in/abhishekskmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekskmr" height="30" width="40" /></a>
 </p>
 ⚡<h1>Bluemercury.com clone</h1>
-​Live Link- https://dazzling-pasca-d1910a.netlify.app/
-Cosmetics ecommerce platform
+​Live Link- https://bluemercury.netlify.app/
+<h1>Bluemercury.com is a leading luxury beauty retailer offering the best cosmetics, skin care, makeup, perfume, hair, and bath and body.</h1>
 
 
 deployed link- https://bucolic-muffin-8abf9f.netlify.app/
