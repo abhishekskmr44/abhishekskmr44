@@ -45,11 +45,6 @@
 <h1>Bluemercury.com is a leading luxury beauty retailer offering the best cosmetics, skin care, makeup, perfume, hair, and bath and body.</h1>
 
 
-deployed link- https://bucolic-muffin-8abf9f.netlify.app/
-<h1>⚡Orbitz.com clone</h1> 
-<p>Orbitz.com is a an amazing travel website. Also list of hotels, cities and destinations It has a signup page, a login page and a completely functional payment page. Technology used is React JS.<p>
-<h2>deployed link- https://bucolic-muffin-8abf9f.netlify.app/</h2>
-
 <h1>⚡Sephora.com clone</h1>
 <p>Sephora.com is a cosmetic website. My project is a clone of the original website. It has a signup page, a login page and a completely functional payment page. Technology used is HTML, CSS & Javascript.<p>
 <h2>deployed link- https://papaya-medovik-778f4e.netlify.app/</h1>
