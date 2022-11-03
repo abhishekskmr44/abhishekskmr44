@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abhishekskmr44@gmail.com**
 
-- 📄 Know about my experiences- https://shorturl.at/BCFX4
+- 📄 Know about my experiences- https://drive.google.com/file/d/1UM2WxR1GwQiBUmuzhh18N8ss4IEkIGYX/view
 
 - ⚡ Fun fact **loves both oceans and mountains**
 
