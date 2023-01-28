@@ -30,7 +30,7 @@
  
   # SPOTIFY.COM Clone
 
-## Introduction to our project( https://spotify-clone-two-pink.vercel.app/):
+## Introduction to our project( https://spotify-ten-green.vercel.app/):
 
 
 
