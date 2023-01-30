@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **react js**
 
--<h1> 👨‍💻 All of my projects are available at https://abhishekskportfolio.netlify.app/</h1>
+-<h1> 👨‍💻 My Portfolio projects are available at https://abhishekskportfolio.netlify.app/</h1>
 
 - 💬 Ask me about **react js**
 
